@@ -1,7 +1,8 @@
 repo_name: jadenblack/pinot
 report_id: 84beea450577d054a4e44b382a35be3c
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T17:25:58+00:00'
+timestamp: '2024-01-05T08:23:49+00:00'
 requested_by: INNOCENT-BOY
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: Groovy
   description: A multi-faceted language for the Java platform
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-spi/pom.xml
   detection_source: pinot-spi/pom.xml
   last_updated_by: Neha Pawar
   last_updated_on: 2020-04-15 21:13:14.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -57,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -66,6 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-tests/src/test/resources/On_Time_On_Time_Performance_2014_100k_subset.test_queries_10K.sql
   detection_source: pinot-integration-tests/src/test/resources/On_Time_On_Time_Performance_2014_100k_subset.test_queries_10K.sql
 - name: Scala
   description: A pure-bred object-oriented language that runs on the JVM
@@ -76,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: Smarty
   description: Template engine for PHP
@@ -85,6 +93,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -95,6 +104,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -106,6 +116,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
   detection_source: docker/images/pinot/docker-compose.yml
   last_updated_by: Xiang Fu
   last_updated_on: 2019-09-03 17:17:41.000000000 Z
@@ -118,6 +129,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: Avro
   description: 'A data serialization framework '
@@ -127,6 +139,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4265/avro.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-avro-base/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-avro-base/pom.xml
   last_updated_by: Elon Azoulay
   last_updated_on: 2020-03-23 17:23:36.000000000 Z
@@ -140,6 +153,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package.json
   detection_source: pinot-controller/src/main/resources/package.json
   last_updated_by: Oren
   last_updated_on: 2022-06-23 20:07:40.000000000 Z
@@ -151,6 +165,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Elon Azoulay
   last_updated_on: 2020-07-13 21:41:29.000000000 Z
@@ -191,6 +206,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package.json
   detection_source: pinot-controller/src/main/resources/package.json
   last_updated_by: Oren
   last_updated_on: 2022-06-16 18:06:10.000000000 Z
@@ -203,6 +219,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Jean-Francois Im
   last_updated_on: 2015-01-05 23:33:09.000000000 Z
@@ -215,6 +232,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/5862/default_89c3b9968d36020bf2eaaf162d706866b6da195f.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-confluent-avro/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-confluent-avro/pom.xml
   last_updated_by: Benedict Jin
   last_updated_on: 2021-04-21 17:46:07.000000000 Z
@@ -226,6 +244,7 @@ tools:
   category: Data Stores
   sub_category: Cloud Storage
   image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
   last_updated_by: soumitra-st
   last_updated_on: 2023-07-15 22:27:06.000000000 Z
@@ -237,6 +256,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-test-base/pom.xml
   detection_source: pinot-integration-test-base/pom.xml
   last_updated_by: Rong Rong
   last_updated_on: 2021-09-20 19:12:29.000000000 Z
@@ -249,6 +269,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1044/elephant_rgb_sq.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   last_updated_by: Xiaotian (Jackie) Jiang
   last_updated_on: 2020-04-17 07:27:19.000000000 Z
@@ -261,6 +282,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
   detection_source: docker/images/pinot/docker-compose.yml
   last_updated_by: Xiang Fu
   last_updated_on: 2019-09-03 17:17:41.000000000 Z
@@ -272,6 +294,7 @@ tools:
   category: Data Stores
   sub_category: Kafka Tools
   image_url: https://img.stackshare.io/service/8938/default_952e19080b823dcfc14ef0508ae6a783d35224f6.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
   detection_source: docker/images/pinot/docker-compose.yml
   last_updated_by: Xiang Fu
   last_updated_on: 2019-09-03 17:17:41.000000000 Z
@@ -297,6 +320,7 @@ tools:
   category: Languages & Frameworks
   sub_category: GraphQL Tools
   image_url: https://img.stackshare.io/service/11394/appsync.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
   detection_source: docker/images/pinot/docker-compose.yml
   last_updated_by: Konrad Malik
   last_updated_on: 2020-03-24 23:46:16.000000000 Z
@@ -308,6 +332,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot-superset/requirements-db.txt
   detection_source: docker/images/pinot-superset/requirements-db.txt
   last_updated_by: Xiang Fu
   last_updated_on: 2019-06-13 17:09:18.000000000 Z
@@ -320,6 +345,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/.babelrc
   detection_source: pinot-controller/src/main/resources/.babelrc
   last_updated_by: Sanket Shah
   last_updated_on: 2020-07-17 19:50:35.000000000 Z
@@ -345,6 +371,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/.codecov.yml
   detection_source: ".codecov.yml"
   last_updated_by: Jackie-Jiang
   last_updated_on: 2016-06-16 21:25:47.000000000 Z
@@ -357,6 +384,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -367,6 +395,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/.eslintrc
   detection_source: pinot-controller/src/main/resources/.eslintrc
   last_updated_by: Sanket Shah
   last_updated_on: 2020-07-17 19:50:35.000000000 Z
@@ -378,6 +407,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
   detection_source: pinot-clients/pinot-java-client/pom.xml
   last_updated_by: Dhaval Patel
   last_updated_on: 2014-12-15 21:34:57.000000000 Z
@@ -389,6 +419,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -398,6 +429,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/.github/workflows/build-multi-arch-pinot-docker-image.yml
   detection_source: ".github/workflows/build-multi-arch-pinot-docker-image.yml"
   last_updated_by: Xiang Fu
   last_updated_on: 2023-03-16 02:26:24.000000000 Z
@@ -409,6 +441,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -421,6 +454,7 @@ tools:
   category: Monitoring
   sub_category: Logging Tools
   image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-tools/pom.xml
   detection_source: pinot-tools/pom.xml
   last_updated_by: Xiang Fu
   last_updated_on: 2022-07-09 03:26:09.000000000 Z
@@ -433,6 +467,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: Xiaotian Jiang
   last_updated_on: 2018-02-02 21:55:10.000000000 Z
@@ -444,6 +479,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
   detection_source: docker/images/pinot/docker-compose.yml
   last_updated_by: Xiang Fu
   last_updated_on: 2019-09-03 17:17:41.000000000 Z
@@ -471,6 +507,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   last_updated_by: Kartik Khare
   last_updated_on: 2021-07-19 17:09:08.000000000 Z
@@ -482,6 +519,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot-superset/requirements-db.txt
   detection_source: docker/images/pinot-superset/requirements-db.txt
   last_updated_by: Xiang Fu
   last_updated_on: 2019-06-13 17:09:18.000000000 Z
@@ -493,6 +531,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
   detection_source: pinot-clients/pinot-java-client/pom.xml
   last_updated_by: Dhaval Patel
   last_updated_on: 2014-12-15 21:34:57.000000000 Z
@@ -505,6 +544,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: Xiaotian (Jackie) Jiang
   last_updated_on: 2020-03-22 01:36:54.000000000 Z
@@ -530,6 +570,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Open Source Service Discovery
   image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
   detection_source: docker/images/pinot/docker-compose.yml
   last_updated_by: Konrad Malik
   last_updated_on: 2020-03-24 23:46:16.000000000 Z
@@ -541,6 +582,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package.json
   detection_source: pinot-controller/src/main/resources/package.json
   last_updated_by: Sanket Shah
   last_updated_on: 2020-07-17 19:50:35.000000000 Z
@@ -550,6 +592,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/src/main/resources/swagger-ui/index.html
   detection_source: pinot-common/src/main/resources/swagger-ui/index.html
   last_updated_by: Jean-Francois Im
   last_updated_on: 2016-09-23 20:58:28.000000000 Z
@@ -561,6 +604,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot-superset/requirements-db.txt
   detection_source: docker/images/pinot-superset/requirements-db.txt
   last_updated_by: Xiang Fu
   last_updated_on: 2019-06-13 17:09:18.000000000 Z
@@ -601,6 +645,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/pinot
   detection_source: Repo Metadata
 - name: Swagger UI
   description: A Collection of HTML, Javascript, and CSS assets that dynamically generate
@@ -612,6 +657,7 @@ tools:
   category: Application Utilities
   sub_category: Documentation as a Service & Tools
   image_url: https://img.stackshare.io/service/3417/pIea9Ji0.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: Xiaotian (Jackie) Jiang
   last_updated_on: 2020-03-22 01:36:54.000000000 Z
@@ -637,6 +683,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
   detection_source: pinot-clients/pinot-java-client/pom.xml
   last_updated_by: Shounak kulkarni
   last_updated_on: 2021-12-30 05:45:23.000000000 Z
@@ -649,6 +696,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Xiang Fu
   last_updated_on: 2023-10-27 21:10:38.000000000 Z
@@ -673,6 +721,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Xiang Fu
   last_updated_on: 2023-10-02 22:45:39.000000000 Z
@@ -684,6 +733,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/pom.xml
   detection_source: pinot-controller/pom.xml
   last_updated_by: Sanket Shah
   last_updated_on: 2020-07-17 19:50:35.000000000 Z
@@ -696,6 +746,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -707,6 +758,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   last_updated_by: dang-stripe
   last_updated_on: 2023-10-24 20:21:46.000000000 Z
@@ -731,6 +783,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-test-base/pom.xml
   detection_source: pinot-integration-test-base/pom.xml
   last_updated_by: Rong Rong
   last_updated_on: 2021-09-20 19:12:29.000000000 Z
@@ -743,6 +796,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Gonzalo Ortiz Jaureguizar
   last_updated_on: 2023-09-25 18:36:28.000000000 Z
@@ -781,6 +835,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
   last_updated_by: soumitra-st
   last_updated_on: 2023-07-15 22:27:06.000000000 Z
@@ -792,6 +847,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-segment-local/pom.xml
   detection_source: pinot-segment-local/pom.xml
   last_updated_by: Andi Miller
   last_updated_on: 2023-10-24 09:10:46.000000000 Z
@@ -816,6 +872,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
   detection_source: pinot-clients/pinot-java-client/pom.xml
   last_updated_by: Xiaotian (Jackie) Jiang
   last_updated_on: 2019-01-11 04:54:13.000000000 Z
@@ -842,6 +899,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Gonzalo Ortiz Jaureguizar
   last_updated_on: 2023-09-25 18:36:28.000000000 Z
@@ -866,6 +924,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Gonzalo Ortiz Jaureguizar
   last_updated_on: 2023-09-25 18:36:28.000000000 Z
@@ -877,6 +936,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-test-base/pom.xml
   detection_source: pinot-integration-test-base/pom.xml
   last_updated_by: Rong Rong
   last_updated_on: 2021-09-20 19:12:29.000000000 Z
@@ -888,6 +948,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Gonzalo Ortiz Jaureguizar
   last_updated_on: 2023-09-25 18:36:28.000000000 Z
@@ -899,6 +960,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: Yao Liu
   last_updated_on: 2023-03-23 23:20:26.000000000 Z
@@ -910,6 +972,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Gonzalo Ortiz Jaureguizar
   last_updated_on: 2023-09-25 18:36:28.000000000 Z
@@ -942,6 +1005,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Andi Miller
   last_updated_on: 2023-10-24 09:10:46.000000000 Z
@@ -978,6 +1042,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-server/pom.xml
   detection_source: pinot-server/pom.xml
   last_updated_by: Jialiang Li
   last_updated_on: 2018-04-09 23:53:03.000000000 Z
@@ -990,6 +1055,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   last_updated_by: Kartik Khare
   last_updated_on: 2021-07-19 17:09:08.000000000 Z
@@ -1001,6 +1067,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Xiang Fu
   last_updated_on: 2023-10-27 21:10:38.000000000 Z
@@ -1013,6 +1080,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Xiang Fu
   last_updated_on: 2023-10-02 22:45:39.000000000 Z
@@ -1024,6 +1092,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/contrib/pinot-fmpp-maven-plugin/pom.xml
   detection_source: contrib/pinot-fmpp-maven-plugin/pom.xml
   last_updated_by: Rong Rong
   last_updated_on: 2022-04-13 21:49:05.000000000 Z
@@ -1035,6 +1104,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Gonzalo Ortiz Jaureguizar
   last_updated_on: 2023-09-25 18:36:28.000000000 Z
@@ -1047,6 +1117,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-tools/pom.xml
   detection_source: pinot-tools/pom.xml
   last_updated_by: Rong Rong
   last_updated_on: 2021-11-04 19:04:06.000000000 Z
@@ -1059,6 +1130,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-metrics/pinot-dropwizard/pom.xml
   detection_source: pinot-plugins/pinot-metrics/pinot-dropwizard/pom.xml
   last_updated_by: Xiang Fu
   last_updated_on: 2021-08-13 21:39:08.000000000 Z
@@ -1083,6 +1155,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Elon Azoulay
   last_updated_on: 2020-07-13 21:41:29.000000000 Z
@@ -1094,6 +1167,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Elon Azoulay
   last_updated_on: 2020-07-13 21:41:29.000000000 Z
@@ -1106,6 +1180,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Jia Guo
   last_updated_on: 2022-04-29 08:29:22.000000000 Z
@@ -1117,6 +1192,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   last_updated_by: Kartik Khare
   last_updated_on: 2021-05-28 00:29:03.000000000 Z
@@ -1129,6 +1205,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   last_updated_by: Kartik Khare
   last_updated_on: 2021-05-28 00:29:03.000000000 Z
@@ -1140,6 +1217,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
   detection_source: pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
   last_updated_by: Abhijeet Kushe
   last_updated_on: 2021-09-17 02:13:16.000000000 Z
@@ -1149,6 +1227,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
   detection_source: pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
   last_updated_by: Abhijeet Kushe
   last_updated_on: 2021-09-17 02:13:16.000000000 Z
@@ -1160,6 +1239,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   last_updated_by: Kartik Khare
   last_updated_on: 2022-06-08 16:40:44.000000000 Z
@@ -1171,6 +1251,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-06-16 23:37:04.000000000 Z
@@ -1182,6 +1263,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Jia Guo
   last_updated_on: 2022-04-29 08:29:22.000000000 Z
@@ -1194,6 +1276,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   last_updated_by: Xiang Fu
   last_updated_on: 2021-08-21 04:33:52.000000000 Z
@@ -1205,6 +1288,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Jia Guo
   last_updated_on: 2022-04-29 08:29:22.000000000 Z
@@ -1255,6 +1339,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: Xiaotian (Jackie) Jiang
   last_updated_on: 2020-03-22 01:36:54.000000000 Z
@@ -1266,6 +1351,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -1278,6 +1364,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: SandishKumarHN
   last_updated_on: 2021-01-19 01:54:34.000000000 Z
@@ -1289,6 +1376,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-distribution/pom.xml
   detection_source: pinot-distribution/pom.xml
   last_updated_by: Kartik Khare
   last_updated_on: 2022-06-08 16:40:44.000000000 Z
@@ -1338,6 +1426,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Jean-Francois Im
   last_updated_on: 2015-08-05 04:20:37.000000000 Z
@@ -1349,6 +1438,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Gonzalo Ortiz Jaureguizar
   last_updated_on: 2023-10-13 10:31:50.000000000 Z
@@ -1361,6 +1451,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Jean-Francois Im
   last_updated_on: 2015-04-16 20:19:32.000000000 Z
@@ -1385,6 +1476,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-avro-base/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-avro-base/pom.xml
   last_updated_by: Jialiang Li
   last_updated_on: 2020-03-31 05:56:04.000000000 Z
@@ -1396,6 +1488,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1422,6 +1515,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1431,6 +1525,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1443,6 +1538,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-csv/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-csv/pom.xml
   last_updated_by: Jialiang Li
   last_updated_on: 2020-03-31 05:56:04.000000000 Z
@@ -1467,6 +1563,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1478,6 +1575,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1489,6 +1587,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1500,6 +1599,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-hdfs/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-hdfs/pom.xml
   last_updated_by: Abhishek Sharma
   last_updated_on: 2023-10-16 03:35:50.000000000 Z
@@ -1511,6 +1611,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-orc/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-orc/pom.xml
   last_updated_by: Abhishek Sharma
   last_updated_on: 2023-10-16 03:35:50.000000000 Z
@@ -1521,6 +1622,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-parquet/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-parquet/pom.xml
   last_updated_by: Abhishek Sharma
   last_updated_on: 2023-10-16 03:35:50.000000000 Z
@@ -1558,6 +1660,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1581,6 +1684,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1592,6 +1696,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-tools/pom.xml
   detection_source: pinot-tools/pom.xml
   last_updated_by: Abhishek Sharma
   last_updated_on: 2023-10-16 03:35:50.000000000 Z
@@ -1603,6 +1708,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1614,6 +1720,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1625,6 +1732,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1662,6 +1770,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-orc/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-orc/pom.xml
   last_updated_by: Abhishek Sharma
   last_updated_on: 2023-10-16 03:35:50.000000000 Z
@@ -1671,6 +1780,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-parquet/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-parquet/pom.xml
   last_updated_by: Abhishek Sharma
   last_updated_on: 2023-10-16 03:35:50.000000000 Z
@@ -1683,6 +1793,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1693,6 +1804,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1704,6 +1816,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
   detection_source: pinot-clients/pinot-java-client/pom.xml
   last_updated_by: Kartik Khare
   last_updated_on: 2022-09-07 16:25:02.000000000 Z
@@ -1715,6 +1828,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-spi/pom.xml
   detection_source: pinot-spi/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1765,6 +1879,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1790,6 +1905,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-06-16 23:37:04.000000000 Z
@@ -1801,6 +1917,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-06-16 23:37:04.000000000 Z
@@ -1825,6 +1942,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1836,6 +1954,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -1873,6 +1992,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -1896,6 +2016,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -1907,6 +2028,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -1918,6 +2040,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/pom.xml
   detection_source: pinot-controller/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1928,6 +2051,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-tools/pom.xml
   detection_source: pinot-tools/pom.xml
   last_updated_by: Abhishek Sharma
   last_updated_on: 2023-10-16 03:35:50.000000000 Z
@@ -1939,6 +2063,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-server/pom.xml
   detection_source: pinot-server/pom.xml
   last_updated_by: Rong Rong
   last_updated_on: 2022-06-03 18:56:46.000000000 Z
@@ -1948,6 +2073,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1960,6 +2086,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -1984,6 +2111,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -1995,6 +2123,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -2006,6 +2135,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-perf/pom.xml
   detection_source: pinot-perf/pom.xml
   last_updated_by: Richard Startin
   last_updated_on: 2021-09-24 23:40:27.000000000 Z
@@ -2017,6 +2147,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-perf/pom.xml
   detection_source: pinot-perf/pom.xml
   last_updated_by: Richard Startin
   last_updated_on: 2021-09-24 23:40:27.000000000 Z
@@ -2028,6 +2159,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-segment-spi/pom.xml
   detection_source: pinot-segment-spi/pom.xml
   last_updated_by: Saurabh Dubey
   last_updated_on: 2023-10-12 06:56:54.000000000 Z
@@ -2039,6 +2171,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/pom.xml
   detection_source: pinot-controller/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -2050,6 +2183,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   last_updated_by: singalravi
   last_updated_on: 2021-09-15 19:15:32.000000000 Z
@@ -2061,6 +2195,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -2072,6 +2207,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
   detection_source: pinot-core/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -2096,6 +2232,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -2107,6 +2244,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
   detection_source: pinot-clients/pinot-java-client/pom.xml
   last_updated_by: Kartik Khare
   last_updated_on: 2022-09-07 16:25:02.000000000 Z
@@ -2131,6 +2269,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
   detection_source: pinot-broker/pom.xml
   last_updated_by: MeihanLi
   last_updated_on: 2023-04-18 23:58:31.000000000 Z
@@ -2142,6 +2281,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -2153,6 +2293,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
   detection_source: pinot-common/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -2164,6 +2305,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
   last_updated_by: Tim Veil
   last_updated_on: 2023-11-02 17:10:28.000000000 Z
@@ -2175,6 +2317,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
   last_updated_by: Xiaobing
   last_updated_on: 2023-03-07 22:25:11.000000000 Z
@@ -2187,6 +2330,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-orc/pom.xml
   detection_source: pinot-plugins/pinot-input-format/pinot-orc/pom.xml
   last_updated_by: Abhishek Sharma
   last_updated_on: 2023-08-30 18:52:18.000000000 Z
