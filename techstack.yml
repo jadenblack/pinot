@@ -1,0 +1,2988 @@
+repo_name: jadenblack/pinot
+report_id: 84beea450577d054a4e44b382a35be3c
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:04:55+00:00'
+requested_by: INNOCENT-BOY
+provider: github
+branch: master
+detected_tools_count: 234
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-spi/pom.xml
+  detection_source: pinot-spi/pom.xml
+  last_updated_by: Neha Pawar
+  last_updated_on: 2020-04-15 21:13:14.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-tests/src/test/resources/On_Time_On_Time_Performance_2014_100k_subset.test_queries_10K.sql
+  detection_source: pinot-integration-tests/src/test/resources/On_Time_On_Time_Performance_2014_100k_subset.test_queries_10K.sql
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
+  detection_source: docker/images/pinot/docker-compose.yml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2019-09-03 17:17:41.000000000 Z
+- name: Apache FreeMarker
+  description: A free Java-based template engine
+  website_url: http://freemarker.incubator.apache.org/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: Avro
+  description: A data serialization framework
+  website_url: https://avro.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4265/avro.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-avro-base/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-avro-base/pom.xml
+  last_updated_by: Elon Azoulay
+  last_updated_on: 2020-03-23 17:23:36.000000000 Z
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-23 20:07:40.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Elon Azoulay
+  last_updated_on: 2020-07-13 21:41:29.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Jean-Francois Im
+  last_updated_on: 2015-01-05 23:33:09.000000000 Z
+- name: Confluent
+  description: A stream data platform to help companies harness their high volume
+    real-time data streams
+  website_url: https://www.confluent.io/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/5862/default_89c3b9968d36020bf2eaaf162d706866b6da195f.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-confluent-avro/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-confluent-avro/pom.xml
+  last_updated_by: Benedict Jin
+  last_updated_on: 2021-04-21 17:46:07.000000000 Z
+- name: Google Cloud Storage
+  description: Durable and highly available object storage service
+  website_url: https://cloud.google.com/products/cloud-storage/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  last_updated_by: soumitra-st
+  last_updated_on: 2023-07-15 22:27:06.000000000 Z
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-test-base/pom.xml
+  detection_source: pinot-integration-test-base/pom.xml
+  last_updated_by: Rong Rong
+  last_updated_on: 2021-09-20 19:12:29.000000000 Z
+- name: Hadoop
+  description: Open-source software for reliable, scalable, distributed computing
+  website_url: http://hadoop.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1044/elephant_rgb_sq.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  last_updated_by: Xiaotian (Jackie) Jiang
+  last_updated_on: 2020-04-17 07:27:19.000000000 Z
+- name: Kafka
+  description: Distributed, fault tolerant, high throughput pub-sub messaging system
+  website_url: http://kafka.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
+  detection_source: docker/images/pinot/docker-compose.yml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2019-09-03 17:17:41.000000000 Z
+- name: Kafka REST
+  description: A RESTful interface to a Kafka cluster
+  website_url: https://github.com/confluentinc/kafka-rest
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Kafka Tools
+  image_url: https://img.stackshare.io/service/8938/default_952e19080b823dcfc14ef0508ae6a783d35224f6.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
+  detection_source: docker/images/pinot/docker-compose.yml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2019-09-03 17:17:41.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 4.5.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot-superset/requirements-db.txt
+  detection_source: docker/images/pinot-superset/requirements-db.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-31 16:37:23.000000000 Z
+- name: Serverless AppSync
+  description: Easily and quickly deploy GraphQL APIs on AWS
+  website_url: https://github.com/serverless-components/aws-app-sync
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: GraphQL Tools
+  image_url: https://img.stackshare.io/service/11394/appsync.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
+  detection_source: docker/images/pinot/docker-compose.yml
+  last_updated_by: Konrad Malik
+  last_updated_on: 2020-03-24 23:46:16.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot-superset/requirements-db.txt
+  detection_source: docker/images/pinot-superset/requirements-db.txt
+  last_updated_by: Xiang Fu
+  last_updated_on: 2019-06-13 17:09:18.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/.babelrc
+  detection_source: pinot-controller/src/main/resources/.babelrc
+  last_updated_by: Sanket Shah
+  last_updated_on: 2020-07-17 19:50:35.000000000 Z
+- name: CodeMirror
+  description: A versatile text editor implemented in JavaScript for the browser
+  website_url: http://codemirror.net/
+  version: 5.65.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/2490/E_fCaAi6.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/.codecov.yml
+  detection_source: ".codecov.yml"
+  last_updated_by: Jackie-Jiang
+  last_updated_on: 2016-06-16 21:25:47.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/.eslintrc
+  detection_source: pinot-controller/src/main/resources/.eslintrc
+  last_updated_by: Sanket Shah
+  last_updated_on: 2020-07-17 19:50:35.000000000 Z
+- name: FindBugs
+  description: An open-source static code analyser
+  website_url: http://findbugs.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
+  detection_source: pinot-clients/pinot-java-client/pom.xml
+  last_updated_by: Dhaval Patel
+  last_updated_on: 2014-12-15 21:34:57.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/.github/workflows/build-multi-arch-pinot-docker-image.yml
+  detection_source: ".github/workflows/build-multi-arch-pinot-docker-image.yml"
+  last_updated_by: Xiang Fu
+  last_updated_on: 2023-03-16 02:26:24.000000000 Z
+- name: GlassFish
+  description: The Open Source Java EE Reference Implementation
+  website_url: https://glassfish.java.net
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/3628/515GX-Cc_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-tools/pom.xml
+  detection_source: pinot-tools/pom.xml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2022-07-09 03:26:09.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: Xiaotian Jiang
+  last_updated_on: 2018-02-02 21:55:10.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
+  detection_source: docker/images/pinot/docker-compose.yml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2019-09-03 17:17:41.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Sanket Shah
+  last_updated_on: 2020-07-17 19:50:35.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-07-19 17:09:08.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot-superset/requirements-db.txt
+  detection_source: docker/images/pinot-superset/requirements-db.txt
+  last_updated_by: Xiang Fu
+  last_updated_on: 2019-06-13 17:09:18.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
+  detection_source: pinot-clients/pinot-java-client/pom.xml
+  last_updated_by: Dhaval Patel
+  last_updated_on: 2014-12-15 21:34:57.000000000 Z
+- name: TestNG
+  description: A testing framework inspired from JUnit and NUnit
+  website_url: http://testng.org/doc/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: Xiaotian (Jackie) Jiang
+  last_updated_on: 2020-03-22 01:36:54.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.29.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Johan Adami
+  last_updated_on: 2022-08-09 00:25:36.000000000 Z
+- name: Zookeeper
+  description: Because coordinating distributed systems is a Zoo
+  website_url: http://zookeeper.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot/docker-compose.yml
+  detection_source: docker/images/pinot/docker-compose.yml
+  last_updated_by: Konrad Malik
+  last_updated_on: 2020-03-24 23:46:16.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Sanket Shah
+  last_updated_on: 2020-07-17 19:50:35.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/src/main/resources/swagger-ui/index.html
+  detection_source: pinot-common/src/main/resources/swagger-ui/index.html
+  last_updated_by: Jean-Francois Im
+  last_updated_on: 2016-09-23 20:58:28.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/docker/images/pinot-superset/requirements-db.txt
+  detection_source: docker/images/pinot-superset/requirements-db.txt
+  last_updated_by: Xiang Fu
+  last_updated_on: 2019-06-13 17:09:18.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Johan Adami
+  last_updated_on: 2022-08-09 00:25:36.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/pinot
+  detection_source: Repo Metadata
+- name: Swagger UI
+  description: A Collection of HTML, Javascript, and CSS assets that dynamically generate
+    beautiful documentation
+  website_url: https://swagger.io/tools/swagger-ui/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/3417/pIea9Ji0.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: Xiaotian (Jackie) Jiang
+  last_updated_on: 2020-03-22 01:36:54.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: com.101tec:zkclient
+  description: A zookeeper client, that makes life a little easier
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
+  detection_source: pinot-clients/pinot-java-client/pom.xml
+  last_updated_by: Shounak kulkarni
+  last_updated_on: 2021-12-30 05:45:23.000000000 Z
+- name: com.clearspring.analytics:stream
+  description: A library for summarizing data in streams for which it is infeasible
+    to store all events
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2023-10-27 21:10:38.000000000 Z
+- name: com.esotericsoftware.kryo:kryo
+  description: Fast, efficient Java serialization
+  version: 2.24.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark-2.4/pom.xml
+  detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark-2.4/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2022-06-08 21:01:59.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-annotations
+  description: Core annotations used for value types
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2023-10-02 22:45:39.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/pom.xml
+  detection_source: pinot-controller/pom.xml
+  last_updated_by: Sanket Shah
+  last_updated_on: 2020-07-17 19:50:35.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: com.fasterxml.woodstox:woodstox-core
+  description: Woodstox is a high-performance XML processor that implements Stax
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  last_updated_by: dang-stripe
+  last_updated_on: 2023-10-24 20:21:46.000000000 Z
+- name: com.github.ben-manes.caffeine:caffeine
+  description: A high performance caching library for Java 8+
+  version: 2.6.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-07-19 17:09:08.000000000 Z
+- name: com.github.jnr:jnr-posix
+  description: Common cross-project/cross-platform POSIX APIs
+  license: EPL-2.0,GPL-3.0-only,LGPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-test-base/pom.xml
+  detection_source: pinot-integration-test-base/pom.xml
+  last_updated_by: Rong Rong
+  last_updated_on: 2021-09-20 19:12:29.000000000 Z
+- name: com.github.luben:zstd-jni
+  description: JNI bindings for Zstd native library that provides fast and high compression
+    lossless algorithm for Java and all JVM languages
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-09-25 18:36:28.000000000 Z
+- name: com.google.api-client:google-api-client
+  description: Google APIs Client Library for Java
+  version: 1.30.10
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  last_updated_by: soumitra-st
+  last_updated_on: 2023-07-15 22:27:06.000000000 Z
+- name: com.google.api.grpc:proto-google-common-protos
+  description: PROTO library for proto-google-common-protos
+  version: 1.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  last_updated_by: soumitra-st
+  last_updated_on: 2023-07-15 22:27:06.000000000 Z
+- name: com.google.apis:google-api-services-storage
+  description: Sonatype helps open source projects to set up Maven repositories on
+    https://oss.sonatype.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  last_updated_by: soumitra-st
+  last_updated_on: 2023-07-15 22:27:06.000000000 Z
+- name: com.google.auto.service:auto-service
+  description: Provider-configuration files for ServiceLoader
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-segment-local/pom.xml
+  detection_source: pinot-segment-local/pom.xml
+  last_updated_by: Andi Miller
+  last_updated_on: 2023-10-24 09:10:46.000000000 Z
+- name: com.google.cloud:google-cloud-storage
+  description: Java idiomatic client for Google Cloud Storage
+  version: 1.113.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  last_updated_by: soumitra-st
+  last_updated_on: 2023-07-15 22:27:06.000000000 Z
+- name: com.google.code.findbugs:jsr305
+  description: JSR305 Annotations for Findbugs
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
+  detection_source: pinot-clients/pinot-java-client/pom.xml
+  last_updated_by: Xiaotian (Jackie) Jiang
+  last_updated_on: 2019-01-11 04:54:13.000000000 Z
+- name: com.google.errorprone:error_prone_annotations
+  description: Sonatype helps open source projects to set up Maven repositories on
+    https://oss.sonatype.org/
+  version: 2.23.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-07-19 17:09:08.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-09-25 18:36:28.000000000 Z
+- name: com.google.http-client:google-http-client
+  description: Google HTTP Client Library for Java
+  version: 1.36.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-gcs/pom.xml
+  last_updated_by: soumitra-st
+  last_updated_on: 2023-07-15 22:27:06.000000000 Z
+- name: com.google.protobuf:protobuf-java
+  description: Core Protocol Buffers library
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-09-25 18:36:28.000000000 Z
+- name: com.h2database:h2
+  description: H2 Database Engine
+  license: MIT-feh
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-test-base/pom.xml
+  detection_source: pinot-integration-test-base/pom.xml
+  last_updated_by: Rong Rong
+  last_updated_on: 2021-09-20 19:12:29.000000000 Z
+- name: com.jayway.jsonpath:json-path
+  description: Java port of Stefan Goessner JsonPath
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-09-25 18:36:28.000000000 Z
+- name: com.jcabi:jcabi-log
+  description: Wrapper of SLF4J and a few supplementary logging classes
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: Yao Liu
+  last_updated_on: 2023-03-23 23:20:26.000000000 Z
+- name: com.lmax:disruptor
+  description: Disruptor - Concurrent Programming Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-09-25 18:36:28.000000000 Z
+- name: com.squareup.okio:okio
+  description: A modern I/O API for Java
+  version: 1.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-07-19 17:09:08.000000000 Z
+  vulnerabilities:
+  - name: Okio Signed to Unsigned Conversion Error vulnerability
+    cve_id: CVE-2023-3635
+    cve_url: https://github.com/advisories/GHSA-w33c-445m-f8w7
+    detected_date: Jul 14
+    severity: moderate
+    first_patched: 1.17.6
+- name: com.tdunning:t-digest
+  description: Data structure which allows accurate estimation of quantiles and related
+    rank statistics
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Andi Miller
+  last_updated_on: 2023-10-24 09:10:46.000000000 Z
+- name: com.twitter:chill_2.11
+  description: Chill
+  version: 0.9.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark-2.4/pom.xml
+  detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark-2.4/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2022-06-08 21:01:59.000000000 Z
+- name: com.yammer.metrics:metrics-core
+  description: Artifactory auto generated POM
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-metrics/pinot-yammer/pom.xml
+  detection_source: pinot-plugins/pinot-metrics/pinot-yammer/pom.xml
+  last_updated_by: Jialiang Li
+  last_updated_on: 2021-03-08 17:59:11.000000000 Z
+- name: commons-cli:commons-cli
+  description: Apache Commons CLI provides a simple API for presenting
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-server/pom.xml
+  detection_source: pinot-server/pom.xml
+  last_updated_by: Jialiang Li
+  last_updated_on: 2018-04-09 23:53:03.000000000 Z
+- name: commons-codec:commons-codec
+  description: The Apache Commons Codec package contains simple encoder and decoders
+    for various formats such as Base64 and Hexadecimal
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-07-19 17:09:08.000000000 Z
+- name: commons-collections:commons-collections
+  description: Types that extend and augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2023-10-27 21:10:38.000000000 Z
+- name: commons-configuration:commons-configuration
+  description: Tools to assist in the reading of configuration/preferences files in
+    various formats
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2023-10-02 22:45:39.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/contrib/pinot-fmpp-maven-plugin/pom.xml
+  detection_source: contrib/pinot-fmpp-maven-plugin/pom.xml
+  last_updated_by: Rong Rong
+  last_updated_on: 2022-04-13 21:49:05.000000000 Z
+- name: commons-lang:commons-lang
+  description: Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-09-25 18:36:28.000000000 Z
+- name: info.picocli:picocli
+  description: Java command line parser with both an annotations API and a programmatic
+    API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-tools/pom.xml
+  detection_source: pinot-tools/pom.xml
+  last_updated_by: Rong Rong
+  last_updated_on: 2021-11-04 19:04:06.000000000 Z
+- name: io.dropwizard.metrics:metrics-core
+  description: Metrics is a Java library which gives you unparalleled insight into
+    what your code does in production
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-metrics/pinot-dropwizard/pom.xml
+  detection_source: pinot-plugins/pinot-metrics/pinot-dropwizard/pom.xml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2021-08-13 21:39:08.000000000 Z
+- name: io.grpc:grpc-context
+  description: 'GRPC: Context'
+  version: 1.14.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2023-07-12 13:56:31.000000000 Z
+- name: io.grpc:grpc-protobuf
+  description: 'GRPC: Protobuf'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Elon Azoulay
+  last_updated_on: 2020-07-13 21:41:29.000000000 Z
+- name: io.grpc:grpc-stub
+  description: 'GRPC: Stub'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Elon Azoulay
+  last_updated_on: 2020-07-13 21:41:29.000000000 Z
+- name: io.netty:netty-all
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Jia Guo
+  last_updated_on: 2022-04-29 08:29:22.000000000 Z
+- name: io.netty:netty-buffer
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-05-28 00:29:03.000000000 Z
+- name: io.netty:netty-codec
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-05-28 00:29:03.000000000 Z
+- name: io.netty:netty-codec-http
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
+  last_updated_by: Abhijeet Kushe
+  last_updated_on: 2021-09-17 02:13:16.000000000 Z
+- name: io.netty:netty-codec-http2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
+  last_updated_by: Abhijeet Kushe
+  last_updated_on: 2021-09-17 02:13:16.000000000 Z
+- name: io.netty:netty-common
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2022-06-08 16:40:44.000000000 Z
+- name: io.netty:netty-resolver
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-16 23:37:04.000000000 Z
+- name: io.netty:netty-tcnative-boringssl-static
+  description: A Mavenized fork of Tomcat Native which incorporates various patches
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Jia Guo
+  last_updated_on: 2022-04-29 08:29:22.000000000 Z
+- name: io.netty:netty-transport
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  last_updated_by: Xiang Fu
+  last_updated_on: 2021-08-21 04:33:52.000000000 Z
+- name: io.netty:netty-transport-native-epoll
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Jia Guo
+  last_updated_on: 2022-04-29 08:29:22.000000000 Z
+- name: io.prometheus:simpleclient
+  description: Prometheus Java Client Metrics, Next Generation
+  version: 0.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: PJ Fanning
+  last_updated_on: 2022-03-15 20:14:52.000000000 Z
+- name: io.prometheus:simpleclient_common
+  description: Prometheus Java Client Metrics
+  version: 0.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: PJ Fanning
+  last_updated_on: 2022-03-15 20:14:52.000000000 Z
+- name: io.prometheus:simpleclient_hotspot
+  description: Collectors of data from Java Hotspot
+  version: 0.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: PJ Fanning
+  last_updated_on: 2022-03-15 20:14:52.000000000 Z
+- name: io.swagger:swagger-jaxrs
+  description: Examples and server integrations for generating the Swagger API Specification
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: Xiaotian (Jackie) Jiang
+  last_updated_on: 2020-03-22 01:36:54.000000000 Z
+- name: io.swagger:swagger-jersey2-jaxrs
+  description: Examples and server integrations for generating the Swagger API Specification
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: it.unimi.dsi:fastutil
+  description: Fastutil extends the Java Collections Framework by providing type-specific
+    maps
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: SandishKumarHN
+  last_updated_on: 2021-01-19 01:54:34.000000000 Z
+- name: javax.activation:activation
+  description: The JavaBeans
+  license: CDDL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-distribution/pom.xml
+  detection_source: pinot-distribution/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2022-06-08 16:40:44.000000000 Z
+- name: javax.annotation:javax.annotation-api
+  description: Common Annotations for the JavaTM Platform API
+  version: '1.2'
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-07-19 17:09:08.000000000 Z
+- name: javax.servlet:javax.servlet-api
+  description: Java.net - The Source for Java Technology Collaboration
+  version: 3.0.1
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-connectors/pinot-spark-3-connector/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-09-25 18:36:28.000000000 Z
+- name: javax.ws.rs:javax.ws.rs-api
+  version: '2.1'
+  license: CDDL-1.1,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2021-07-19 17:09:08.000000000 Z
+- name: joda-time:joda-time
+  description: Date and time library to replace JDK date handling
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Jean-Francois Im
+  last_updated_on: 2015-08-05 04:20:37.000000000 Z
+- name: net.sf.jopt-simple:jopt-simple
+  description: A Java library for parsing command line options
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-10-13 10:31:50.000000000 Z
+- name: nl.jqno.equalsverifier:equalsverifier
+  description: EqualsVerifier can be used in JUnit 4 unit tests to verify whether
+    the contract for the equals and hashCode methods is met
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Jean-Francois Im
+  last_updated_on: 2015-04-16 20:19:32.000000000 Z
+- name: org.antlr:antlr4-runtime
+  description: The ANTLR 4 Runtime
+  version: '4.8'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-connectors/pinot-spark-3-connector/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.avro:avro
+  description: Avro core components
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-avro-base/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-avro-base/pom.xml
+  last_updated_by: Jialiang Li
+  last_updated_on: 2020-03-31 05:56:04.000000000 Z
+- name: org.apache.calcite:calcite-core
+  description: Core Calcite APIs and engine
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.commons:commons-collections4
+  description: The Apache Commons Collections package contains types that extend and
+    augment the Java Collections Framework
+  version: '4.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2022-04-18 04:41:16.000000000 Z
+- name: org.apache.commons:commons-compress
+  description: Apache Commons Compress software defines an API for working with compression
+    and archive formats
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.commons:commons-configuration2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.commons:commons-csv
+  description: The Apache Commons CSV library provides a simple interface for reading
+    and writing CSV files of various types
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-csv/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-csv/pom.xml
+  last_updated_by: Jialiang Li
+  last_updated_on: 2020-03-31 05:56:04.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: '3.11'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark-3/pom.xml
+  detection_source: pinot-integration-test-base/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.commons:commons-math
+  description: The Math project is a library of lightweight
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.commons:commons-math3
+  description: The Apache Commons Math project is a library of lightweight
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.hadoop:hadoop-client
+  description: Apache Hadoop Client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.hadoop:hadoop-common
+  description: Apache Hadoop Common
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-hdfs/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-hdfs/pom.xml
+  last_updated_by: Abhishek Sharma
+  last_updated_on: 2023-10-16 03:35:50.000000000 Z
+- name: org.apache.hadoop:hadoop-hdfs
+  description: Apache Hadoop HDFS
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-orc/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-orc/pom.xml
+  last_updated_by: Abhishek Sharma
+  last_updated_on: 2023-10-16 03:35:50.000000000 Z
+- name: org.apache.hadoop:hadoop-mapreduce-client-core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-parquet/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-parquet/pom.xml
+  last_updated_by: Abhishek Sharma
+  last_updated_on: 2023-10-16 03:35:50.000000000 Z
+- name: org.apache.httpcomponents:httpclient
+  description: Apache HttpComponents Client
+  version: 4.5.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/contrib/pinot-druid-benchmark/pom.xml
+  detection_source: contrib/pinot-druid-benchmark/pom.xml
+  last_updated_by: Neha Pawar
+  last_updated_on: 2019-01-11 17:53:02.000000000 Z
+- name: org.apache.httpcomponents:httpcore
+  description: Apache HttpComponents Core
+  version: 4.4.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.httpcomponents:httpmime
+  description: Apache HttpComponents HttpClient - MIME coded entities
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.kafka:kafka-clients
+  version: 2.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-compatibility-verifier/pom.xml
+  detection_source: pinot-compatibility-verifier/pom.xml
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-03-28 20:13:15.000000000 Z
+- name: org.apache.logging.log4j:log4j-1.2-api
+  description: The Apache Log4j 1.x Compatibility API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.logging.log4j:log4j-core
+  description: The Apache Log4j Implementation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-tools/pom.xml
+  detection_source: pinot-tools/pom.xml
+  last_updated_by: Abhishek Sharma
+  last_updated_on: 2023-10-16 03:35:50.000000000 Z
+- name: org.apache.lucene:lucene-backward-codecs
+  description: Codecs for older versions of Lucene
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.lucene:lucene-core
+  description: Apache Lucene Java Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.lucene:lucene-queryparser
+  description: Lucene QueryParsers module
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.maven:maven-core
+  description: Maven Core classes
+  version: 3.8.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/contrib/pinot-fmpp-maven-plugin/pom.xml
+  detection_source: contrib/pinot-fmpp-maven-plugin/pom.xml
+  last_updated_by: Navina Ramesh
+  last_updated_on: 2023-07-07 05:27:31.000000000 Z
+- name: org.apache.maven:maven-plugin-api
+  description: The API for plugins - Mojos - development
+  version: 3.8.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/contrib/pinot-fmpp-maven-plugin/pom.xml
+  detection_source: contrib/pinot-fmpp-maven-plugin/pom.xml
+  last_updated_by: Navina Ramesh
+  last_updated_on: 2023-07-07 05:27:31.000000000 Z
+- name: org.apache.orc:orc-core
+  description: The core reader and writer for ORC files
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-orc/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-orc/pom.xml
+  last_updated_by: Abhishek Sharma
+  last_updated_on: 2023-10-16 03:35:50.000000000 Z
+- name: org.apache.parquet:parquet-avro
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-parquet/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-parquet/pom.xml
+  last_updated_by: Abhishek Sharma
+  last_updated_on: 2023-10-16 03:35:50.000000000 Z
+- name: org.apache.thrift:libthrift
+  description: Thrift is a software framework for scalable cross-language services
+    development
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.apache.zookeeper:zookeeper
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.asynchttpclient:async-http-client
+  description: The Async Http Client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
+  detection_source: pinot-clients/pinot-java-client/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2022-09-07 16:25:02.000000000 Z
+- name: org.codehaus.groovy:groovy-all
+  description: 'Groovy: A powerful, dynamic language for the JVM'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-spi/pom.xml
+  detection_source: pinot-spi/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.codehaus.janino:commons-compiler
+  description: The "commons-compiler" API
+  version: 3.1.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-query-planner/pom.xml
+  detection_source: pinot-query-planner/pom.xml
+  last_updated_by: Rong Rong
+  last_updated_on: 2022-03-25 04:13:51.000000000 Z
+- name: org.codehaus.janino:janino
+  description: 'The "JANINO" implementation of the "commons-compiler" API: Super-small'
+  version: 3.1.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-query-planner/pom.xml
+  detection_source: pinot-query-planner/pom.xml
+  last_updated_by: Rong Rong
+  last_updated_on: 2022-03-25 04:13:51.000000000 Z
+- name: org.codehaus.mojo:animal-sniffer-annotations
+  version: '1.17'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2022-04-18 04:41:16.000000000 Z
+- name: org.codehaus.woodstox:stax2-api
+  description: Tax2 API is an extension to basic Stax 1.0 API that adds significant
+    new functionality
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.easymock:easymock
+  description: EasyMock provides an easy way to create Mock Objects for interfaces
+    and classes generating them on the fly
+  version: 5.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-kinesis/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-10-25 17:43:42.000000000 Z
+- name: org.eclipse.jetty:jetty-server
+  description: The core jetty server artifact
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-16 23:37:04.000000000 Z
+- name: org.eclipse.jetty:jetty-servlet
+  description: Jetty Servlet Container
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-16 23:37:04.000000000 Z
+- name: org.freemarker:freemarker
+  description: FreeMarker is a "template engine"; a generic tool to generate text
+    output based on templates
+  version: 2.3.30
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/contrib/pinot-fmpp-maven-plugin/pom.xml
+  detection_source: contrib/pinot-fmpp-maven-plugin/pom.xml
+  last_updated_by: Navina Ramesh
+  last_updated_on: 2023-07-07 05:27:31.000000000 Z
+- name: org.glassfish.grizzly:grizzly-http-server
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.glassfish.hk2:hk2-locator
+  description: "${project.name}"
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: org.glassfish.jersey.containers:jersey-container-grizzly2-http
+  description: Grizzly 2 Http Container
+  version: '2.39'
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: org.glassfish.jersey.containers:jersey-container-servlet-core
+  description: Jersey core Servlet 2.x implementation
+  version: '2.39'
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  last_updated_by: Haitao Zhang
+  last_updated_on: 2023-07-02 07:37:47.000000000 Z
+- name: org.glassfish.jersey.core:jersey-common
+  description: Jersey core common packages
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: org.glassfish.jersey.core:jersey-server
+  description: Jersey core server implementation
+  version: '2.39'
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-stream-ingestion/pinot-pulsar/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.glassfish.jersey.inject:jersey-hk2
+  description: HK2 InjectionManager implementation
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: org.glassfish.jersey.media:jersey-media-json-jackson
+  description: Jersey JSON Jackson entity providers support module
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: org.glassfish.jersey.media:jersey-media-multipart
+  description: Jersey Multipart entity providers support module
+  license: NetCDF
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/pom.xml
+  detection_source: pinot-controller/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.glassfish.tyrus.bundles:tyrus-standalone-client
+  license: Artistic-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-tools/pom.xml
+  detection_source: pinot-tools/pom.xml
+  last_updated_by: Abhishek Sharma
+  last_updated_on: 2023-10-16 03:35:50.000000000 Z
+- name: org.javassist:javassist
+  description: Javassist
+  license: LGPL-2.1,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-server/pom.xml
+  detection_source: pinot-server/pom.xml
+  last_updated_by: Rong Rong
+  last_updated_on: 2022-06-03 18:56:46.000000000 Z
+- name: org.locationtech.jts:jts-core
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.lz4:lz4-java
+  description: Java ports and bindings of the LZ4 compression algorithm and the xxHash
+    hashing algorithm
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.mindrot:jbcrypt
+  description: OpenBSD-style Blowfish password hashing for Java
+  version: '0.4'
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: org.mockito:mockito-inline
+  description: Mockito preconfigured inline mock maker
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.openjdk.jmh:jmh-core
+  description: The jmh is a Java harness for building
+  license: GPL-3.0-only,GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-perf/pom.xml
+  detection_source: pinot-perf/pom.xml
+  last_updated_by: Richard Startin
+  last_updated_on: 2021-09-24 23:40:27.000000000 Z
+- name: org.openjdk.jmh:jmh-generator-annprocess
+  description: JMH benchmark generator, based on annotation processors
+  license: GPL-3.0-only,GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-perf/pom.xml
+  detection_source: pinot-perf/pom.xml
+  last_updated_by: Richard Startin
+  last_updated_on: 2021-09-24 23:40:27.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-segment-spi/pom.xml
+  detection_source: pinot-segment-spi/pom.xml
+  last_updated_by: Saurabh Dubey
+  last_updated_on: 2023-10-12 06:56:54.000000000 Z
+- name: org.quartz-scheduler:quartz
+  description: Enterprise Job Scheduler
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/pom.xml
+  detection_source: pinot-controller/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.reactivestreams:reactive-streams
+  description: A Protocol for Asynchronous Non-Blocking Data Sequence
+  license: MIT-0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  last_updated_by: singalravi
+  last_updated_on: 2021-09-15 19:15:32.000000000 Z
+- name: org.reflections:reflections
+  description: Reflections - a Java runtime metadata analysis
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.roaringbitmap:RoaringBitmap
+  description: Roaring bitmaps are compressed bitmaps
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-core/pom.xml
+  detection_source: pinot-core/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.scala-lang:scala-library
+  description: Standard library for the Scala Programming Language
+  version: 2.11.11
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark-2.4/pom.xml
+  detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-spark-2.4/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.slf4j:jcl-over-slf4j
+  description: JCL 1.2 implemented over SLF4J
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-clients/pinot-java-client/pom.xml
+  detection_source: pinot-clients/pinot-java-client/pom.xml
+  last_updated_by: Kartik Khare
+  last_updated_on: 2022-09-07 16:25:02.000000000 Z
+- name: org.testcontainers:testcontainers
+  description: Isolated container management for Java code testing
+  version: 1.17.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-integration-tests/pom.xml
+  detection_source: pinot-integration-tests/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.testng:testng
+  description: Testing framework for Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-broker/pom.xml
+  detection_source: pinot-broker/pom.xml
+  last_updated_by: MeihanLi
+  last_updated_on: 2023-04-18 23:58:31.000000000 Z
+- name: org.webjars:swagger-ui
+  description: WebJar for Swagger UI
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.xerial.snappy:snappy-java
+  description: 'Snappy-java: A fast compression/decompression library'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-common/pom.xml
+  detection_source: pinot-common/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: org.yaml:snakeyaml
+  description: YAML 1.1 parser and emitter for Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  detection_source: pinot-plugins/pinot-batch-ingestion/pinot-batch-ingestion-hadoop/pom.xml
+  last_updated_by: Tim Veil
+  last_updated_on: 2023-11-02 17:10:28.000000000 Z
+- name: software.amazon.awssdk:s3
+  description: The AWS Java SDK for Amazon S3 module holds the client classes that
+    are used for communicating with Amazon Simple Storage Service
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  detection_source: pinot-plugins/pinot-file-system/pinot-s3/pom.xml
+  last_updated_by: Xiaobing
+  last_updated_on: 2023-03-07 22:25:11.000000000 Z
+- name: xml-apis:xml-apis
+  description: Xml-commons provides an Apache-hosted set of DOM, SAX, and JAXP interfaces
+    for use in other xml-based projects
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-plugins/pinot-input-format/pinot-orc/pom.xml
+  detection_source: pinot-plugins/pinot-input-format/pinot-orc/pom.xml
+  last_updated_by: Abhishek Sharma
+  last_updated_on: 2023-08-30 18:52:18.000000000 Z
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  version: 1.2.36
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: "@fortawesome/free-solid-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-solid-svg-icons
+  version: 5.15.4
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: "@fortawesome/react-fontawesome"
+  description: Official React component for Font Awesome 5
+  package_url: https://www.npmjs.com/@fortawesome/react-fontawesome
+  version: 0.1.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 4.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-23 20:07:40.000000000 Z
+- name: "@material-ui/icons"
+  description: Material Design Svg Icons converted to Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/icons
+  version: 4.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16471/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-23 20:07:40.000000000 Z
+- name: "@material-ui/lab"
+  description: Material-UI Lab - Incubator for Material-UI React components
+  package_url: https://www.npmjs.com/@material-ui/lab
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18760/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-23 20:07:40.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.14.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.9.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: "@types/react-router"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router
+  version: 5.1.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17099/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 2.30.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-02-02 21:31:00.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 2.30.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-02-02 21:31:00.000000000 Z
+- name: clean-webpack-plugin
+  description: A webpack plugin to remove/clean your build folder
+  package_url: https://www.npmjs.com/clean-webpack-plugin
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16068/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Johan Adami
+  last_updated_on: 2022-08-09 00:25:36.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Johan Adami
+  last_updated_on: 2022-08-09 00:25:36.000000000 Z
+- name: cross-fetch
+  description: Universal WHATWG Fetch API for Node
+  package_url: https://www.npmjs.com/cross-fetch
+  version: 3.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17537/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 18.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-config-react-app
+  description: ESLint configuration used by Create React App
+  package_url: https://www.npmjs.com/eslint-config-react-app
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-import-resolver-typescript
+  description: TypeScript .ts .tsx module resolver for `eslint-plugin-import`
+  package_url: https://www.npmjs.com/eslint-import-resolver-typescript
+  version: 2.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-02-02 21:31:00.000000000 Z
+- name: eslint-loader
+  description: ESlint loader for webpack
+  package_url: https://www.npmjs.com/eslint-loader
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-plugin-flowtype
+  description: Flowtype linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-flowtype
+  version: 4.7.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15940/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.20.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Sanket Shah
+  last_updated_on: 2020-07-17 19:50:35.000000000 Z
+- name: html-loader
+  description: Html loader module for webpack
+  package_url: https://www.npmjs.com/html-loader
+  version: 0.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16055/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 4.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Johan Adami
+  last_updated_on: 2022-08-09 00:25:36.000000000 Z
+- name: jsonlint
+  description: Validate JSON
+  package_url: https://www.npmjs.com/jsonlint
+  version: 1.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17358/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: jwt-decode
+  description: Decode JWT tokens, mostly useful for browser applications
+  package_url: https://www.npmjs.com/jwt-decode
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Gaurav Joshi
+  last_updated_on: 2023-06-20 18:02:20.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Johan Adami
+  last_updated_on: 2022-08-09 00:25:36.000000000 Z
+  vulnerabilities:
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-02-02 21:31:00.000000000 Z
+- name: prettier-eslint
+  description: Formats your JavaScript using prettier followed by eslint --fix
+  package_url: https://www.npmjs.com/prettier-eslint
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16517/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: prettier-eslint-cli
+  description: CLI for prettier-eslint
+  package_url: https://www.npmjs.com/prettier-eslint-cli
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16620/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: react-spring
+  description: Cross-platform animation engine for React
+  package_url: https://www.npmjs.com/react-spring
+  version: 8.0.27
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17658/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: source-map-loader
+  description: Extracts inlined source map and offers it to webpack
+  package_url: https://www.npmjs.com/source-map-loader
+  version: 0.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16190/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 7.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Oren
+  last_updated_on: 2022-06-16 18:06:10.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Johan Adami
+  last_updated_on: 2022-08-09 00:25:36.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/jadenblack/pinot/blob/master/pinot-controller/src/main/resources/package-lock.json
+  detection_source: pinot-controller/src/main/resources/package.json
+  last_updated_by: Gonzalo Ortiz Jaureguizar
+  last_updated_on: 2023-02-02 21:31:00.000000000 Z
